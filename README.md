@@ -1,11 +1,26 @@
-# Hey there!
+# 👋 Hi, I'm Guntupalli Sai Charan!
 
-Welcome to my page
+I'm an AI and Machine Learning enthusiast currently pursuing a BTech in Computer Science at Vellore Institute of Technology, Chennai. With a strong foundation in AI research, cloud computing, and software development, I aim to create impactful solutions that leverage cutting-edge technologies.
 
-Hi i am sai charan,i love exploring about new tech and will always try to implement in my daily workflow
+---
 
-# Things i work with
+## 🚀 About Me
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+- 🔭 **Current Focus**: Exploring the exciting world of Large Language Models (LLMs) and finding creative ways to optimize AI workflows.  
+- 🌱 **Learning**: Adding advanced cloud technologies and Golang to my skillset (and calling it my tech salad 🥗).  
+- 👯 **Looking to Collaborate**: On AI-driven solutions, cloud-based apps, and any cool, innovative projects!  
+- 🐍 **Favorite Language**: I mostly code in Python—it's my go-to tool for building, experimenting, and solving problems.  
+- 🌍 **Beyond Tech**: I love traveling to new places, meeting people, and getting inspired by different cultures and perspectives.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sai80082&style=flat-square)
+
+---
+
+## 📈 GitHub Stats
+
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai80082&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai80082&layout=compact&theme=radical)
+
+---
+
+Feel free to explore my repositories and collaborate on exciting projects!
