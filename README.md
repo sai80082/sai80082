@@ -13,14 +13,4 @@ I'm an AI and Machine Learning enthusiast currently pursuing a BTech in Computer
 - 🌍 **Beyond Tech**: I love traveling to new places, meeting people, and getting inspired by different cultures and perspectives.
 
 
----
-
-## 📈 GitHub Stats
-
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai80082&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai80082&layout=compact&theme=radical)
-
----
-
 Feel free to explore my repositories and collaborate on exciting projects!
